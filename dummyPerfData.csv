@@ -1,0 +1,106 @@
+DateValue,Computer,ObjectName,CounterName,InstanceName,CounterValue
+2020-05-11T22:40:00Z,vm-AmAa-02,Memory,% Committed Bytes In Use,,28.0125713348389
+2020-05-11T22:40:00Z,vm-AmAa-02,Memory,Available MBytes,,5080
+2020-05-11T22:40:00Z,vm-AmAa-02,LogicalDisk,% Free Space,C:,65.5233459472656
+2020-05-11T22:40:00Z,vm-AmAa-02,Processor,% Processor Time,_Total,5.242618799209595
+2020-05-11T22:40:00Z,vm-AmAa-02,Process,% Processor Time,lsass,0.156169343739748
+2020-05-11T22:40:00Z,vm-AmAa-02,LogicalDisk,Avg. Disk sec/Write,C:,0.00223318173084408
+2020-05-11T22:40:00Z,vm-AmAa-02,LogicalDisk,Avg. Disk sec/Read,C:,0.0005595470429398119
+2020-05-11T22:42:00Z,vm-AmAa-02,LogicalDisk,Avg. Disk sec/Write,C:,0.00234658573754132
+2020-05-11T22:42:00Z,vm-AmAa-02,Memory,Available MBytes,,5084.5
+2020-05-11T22:42:00Z,vm-AmAa-02,Memory,% Committed Bytes In Use,,27.97944355010985
+2020-05-11T22:42:00Z,vm-AmAa-02,LogicalDisk,% Free Space,C:,65.5233459472656
+2020-05-11T22:42:00Z,vm-AmAa-02,LogicalDisk,Avg. Disk sec/Read,C:,0.000641666760202497
+2020-05-11T22:42:00Z,vm-AmAa-02,Process,% Processor Time,lsass,0.22116197645664198
+2020-05-11T22:42:00Z,vm-AmAa-02,Processor,% Processor Time,_Total,10.35854160785674
+2020-05-11T22:44:00Z,vm-AmAa-02,Process,% Processor Time,lsass,0.008669306834538766
+2020-05-11T22:44:00Z,vm-AmAa-02,Memory,Available MBytes,,5084.666666666667
+2020-05-11T22:44:00Z,vm-AmAa-02,Memory,% Committed Bytes In Use,,27.993667602539034
+2020-05-11T22:44:00Z,vm-AmAa-02,LogicalDisk,Avg. Disk sec/Write,C:,0.00258149447230001
+2020-05-11T22:44:00Z,vm-AmAa-02,LogicalDisk,% Free Space,C:,65.5233459472656
+2020-05-11T22:44:00Z,vm-AmAa-02,LogicalDisk,Avg. Disk sec/Read,C:,0.0006444429551872117
+2020-05-11T22:44:00Z,vm-AmAa-02,Processor,% Processor Time,_Total,4.422388553619384
+2020-05-11T22:46:00Z,vm-AmAa-02,LogicalDisk,% Free Space,C:,65.5233459472656
+2020-05-11T22:46:00Z,vm-AmAa-02,Memory,% Committed Bytes In Use,,28.0649700164795
+2020-05-11T22:46:00Z,vm-AmAa-02,LogicalDisk,Avg. Disk sec/Read,C:,0.001152497192379085
+2020-05-11T22:46:00Z,vm-AmAa-02,Memory,Available MBytes,,5082
+2020-05-11T22:46:00Z,vm-AmAa-02,Processor,% Processor Time,_Total,11.95639634132386
+2020-06-10T22:20:00Z,vm-AmAa-04,LogicalDisk,Avg. Disk sec/Read,C:,0.00228324712952599
+2020-06-10T22:20:00Z,vm-AmAa-04,Process,% Processor Time,lsass,0.883969068527222
+2020-06-10T22:22:00Z,vm-AmAa-04,Memory,Available MBytes,,5342.5
+2020-06-10T22:22:00Z,vm-AmAa-04,LogicalDisk,% Free Space,C:,65.3153610229492
+2020-06-10T22:22:00Z,vm-AmAa-04,Memory,% Committed Bytes In Use,,33.023380279541
+2020-06-10T22:22:00Z,vm-AmAa-04,Process,% Processor Time,lsass,0.561255648732185
+2020-06-10T22:22:00Z,vm-AmAa-04,LogicalDisk,Avg. Disk sec/Read,C:,0.001045610639266668
+2020-06-10T22:22:00Z,vm-AmAa-04,LogicalDisk,Avg. Disk sec/Write,C:,0.001428326882887635
+2020-06-10T22:22:00Z,vm-AmAa-04,Processor,% Processor Time,_Total,13.385911703109738
+2020-06-10T22:24:00Z,vm-AmAa-04,LogicalDisk,Avg. Disk sec/Write,C:,0.001773358962964265
+2020-06-10T22:24:00Z,vm-AmAa-04,Process,% Processor Time,lsass,0.6242925226688385
+2020-06-10T22:24:00Z,vm-AmAa-04,LogicalDisk,Avg. Disk sec/Read,C:,0.001559813506901265
+2020-06-10T22:24:00Z,vm-AmAa-04,Processor,% Processor Time,_Total,6.391666173934937
+2020-06-10T22:24:00Z,vm-AmAa-04,LogicalDisk,% Free Space,C:,65.3143844604492
+2020-06-10T22:24:00Z,vm-AmAa-04,Memory,Available MBytes,,5337
+2020-06-10T22:24:00Z,vm-AmAa-04,Memory,% Committed Bytes In Use,,33.1182155609131
+2020-06-10T22:26:00Z,vm-AmAa-04,LogicalDisk,% Free Space,C:,65.3148727416992
+2020-06-10T22:26:00Z,vm-AmAa-04,Process,% Processor Time,lsass,0.624187976121902
+2020-06-10T22:26:00Z,vm-AmAa-04,LogicalDisk,Avg. Disk sec/Write,C:,0.0018271945300512
+2020-06-10T22:26:00Z,vm-AmAa-04,LogicalDisk,Avg. Disk sec/Read,C:,0.0004745005280710755
+2020-06-10T22:26:00Z,vm-AmAa-04,Memory,% Committed Bytes In Use,,33.06258010864255
+2020-06-10T22:26:00Z,vm-AmAa-04,Processor,% Processor Time,_Total,7.738388061523427
+2020-06-10T22:26:00Z,vm-AmAa-04,Memory,Available MBytes,,5339.5
+2020-06-10T22:28:00Z,vm-AmAa-04,LogicalDisk,Avg. Disk sec/Write,C:,0.00135254202177748
+2020-06-10T22:28:00Z,vm-AmAa-04,LogicalDisk,Avg. Disk sec/Read,C:,0.003669948782771825
+2020-06-10T22:28:00Z,vm-AmAa-04,Processor,% Processor Time,_Total,11.319963693618789
+2020-06-10T22:28:00Z,vm-AmAa-04,Memory,% Committed Bytes In Use,,33.05688858032225
+2020-06-10T22:28:00Z,vm-AmAa-04,Memory,Available MBytes,,5340
+2020-06-10T22:28:00Z,vm-AmAa-04,LogicalDisk,% Free Space,C:,65.3153610229492
+2020-06-10T22:28:00Z,vm-AmAa-04,Process,% Processor Time,lsass,0.7803551852703094
+2020-06-10T22:30:00Z,vm-AmAa-04,Memory,Available MBytes,,5326.5
+2020-06-10T22:30:00Z,vm-AmAa-04,Processor,% Processor Time,_Total,12.270471334457401
+2020-06-10T22:30:00Z,vm-AmAa-04,LogicalDisk,Avg. Disk sec/Write,C:,0.001567105064168575
+2020-06-10T22:30:00Z,vm-AmAa-04,LogicalDisk,Avg. Disk sec/Read,C:,0.004391917958855631
+2020-06-10T22:30:00Z,vm-AmAa-04,LogicalDisk,% Free Space,C:,65.3153610229492
+2020-06-10T22:30:00Z,vm-AmAa-04,Process,% Processor Time,lsass,0.7280948013067244
+2020-06-10T22:30:00Z,vm-AmAa-04,Memory,% Committed Bytes In Use,,33.21967124938965
+2020-06-10T22:32:00Z,vm-AmAa-04,Memory,Available MBytes,,5347.5
+2020-06-10T22:32:00Z,vm-AmAa-04,Process,% Processor Time,lsass,0.6887788474559764
+2020-06-10T22:32:00Z,vm-AmAa-04,Processor,% Processor Time,_Total,11.343351244926437
+2020-06-10T22:32:00Z,vm-AmAa-04,Memory,% Committed Bytes In Use,,32.96407318115235
+2020-06-10T22:32:00Z,vm-AmAa-04,LogicalDisk,Avg. Disk sec/Read,C:,0.0016559643554501255
+2020-06-10T22:32:00Z,vm-AmAa-04,LogicalDisk,% Free Space,C:,65.3153610229492
+2020-06-10T22:32:00Z,vm-AmAa-04,LogicalDisk,Avg. Disk sec/Write,C:,0.00197574810590595
+2020-06-10T22:34:00Z,vm-AmAa-04,Process,% Processor Time,lsass,0.61876417696476
+2020-06-10T22:34:00Z,vm-AmAa-04,LogicalDisk,Avg. Disk sec/Write,C:,0.004829084035009149
+2020-06-10T22:34:00Z,vm-AmAa-04,LogicalDisk,% Free Space,C:,65.3148727416992
+2020-06-10T22:34:00Z,vm-AmAa-04,LogicalDisk,Avg. Disk sec/Read,C:,0.0015208023542072615
+2020-06-10T22:34:00Z,vm-AmAa-04,Processor,% Processor Time,_Total,7.941143989562987
+2020-06-10T22:34:00Z,vm-AmAa-04,Memory,Available MBytes,,5341.5
+2020-06-10T22:34:00Z,vm-AmAa-04,Memory,% Committed Bytes In Use,,33.01251220703125
+2020-06-10T22:36:00Z,vm-AmAa-04,LogicalDisk,Avg. Disk sec/Write,C:,0.001854909933172165
+2020-06-10T22:36:00Z,vm-AmAa-04,LogicalDisk,% Free Space,C:,65.3143844604492
+2020-06-10T22:36:00Z,vm-AmAa-04,Processor,% Processor Time,_Total,6.114030599594114
+2020-06-10T22:36:00Z,vm-AmAa-04,Memory,% Committed Bytes In Use,,33.0262870788574
+2020-06-10T22:36:00Z,vm-AmAa-04,Process,% Processor Time,lsass,0.6242097169160825
+2020-06-10T22:36:00Z,vm-AmAa-04,Memory,Available MBytes,,5344.5
+2020-06-10T22:36:00Z,vm-AmAa-04,LogicalDisk,Avg. Disk sec/Read,C:,0.0002652248949743805
+2020-06-10T22:38:00Z,vm-AmAa-04,Memory,% Committed Bytes In Use,,32.99719047546385
+2020-06-10T22:38:00Z,vm-AmAa-04,Process,% Processor Time,lsass,0.6109655797481535
+2020-06-10T22:38:00Z,vm-AmAa-04,Memory,Available MBytes,,5340.5
+2020-06-10T22:38:00Z,vm-AmAa-04,Processor,% Processor Time,_Total,12.074493646621711
+2020-06-10T22:38:00Z,vm-AmAa-04,LogicalDisk,Avg. Disk sec/Write,C:,0.0013765245385002354
+2020-06-10T22:38:00Z,vm-AmAa-04,LogicalDisk,Avg. Disk sec/Read,C:,0.00184185354737565
+2020-06-10T22:38:00Z,vm-AmAa-04,LogicalDisk,% Free Space,C:,65.3143844604492
+2020-06-10T22:40:00Z,vm-AmAa-04,Memory,Available MBytes,,5346.5
+2020-06-10T22:40:00Z,vm-AmAa-04,Process,% Processor Time,lsass,0.76691073179245
+2020-06-10T22:40:00Z,vm-AmAa-04,LogicalDisk,Avg. Disk sec/Read,C:,0.0012912460515508446
+2020-06-10T22:40:00Z,vm-AmAa-04,LogicalDisk,% Free Space,C:,65.3143844604492
+2020-06-10T22:40:00Z,vm-AmAa-04,LogicalDisk,Avg. Disk sec/Write,C:,0.0015617172466591
+2020-06-10T22:40:00Z,vm-AmAa-04,Memory,% Committed Bytes In Use,,33.0178737640381
+2020-06-10T22:40:00Z,vm-AmAa-04,Processor,% Processor Time,_Total,8.677229523658765
+2020-06-10T22:42:00Z,vm-AmAa-04,Processor,% Processor Time,_Total,6.3821005821228045
+2020-06-10T22:42:00Z,vm-AmAa-04,Memory,% Committed Bytes In Use,,32.9632301330566
+2020-06-10T22:42:00Z,vm-AmAa-04,LogicalDisk,% Free Space,C:,65.3143844604492
+2020-06-10T22:42:00Z,vm-AmAa-04,LogicalDisk,Avg. Disk sec/Read,C:,0.000700903183314949
+2020-06-10T22:42:00Z,vm-AmAa-04,Process,% Processor Time,lsass,0.572169005870819
+2020-06-10T22:42:00Z,vm-AmAa-04,Memory,Available MBytes,,5349
+2020-06-10T22:42:00Z,vm-AmAa-04,LogicalDisk,Avg. Disk sec/Write,C:,0.00217001046985388
